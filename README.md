@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🔭 Currently building:<br>I'm working on an innovative medical app that uses AI-powered doctor recommendations to transform healthcare. Tech + healthcare = game changer! 🌟<br><br>🌱 Currently learning:<br>Leveling up my skills in Node.js and Laravel to create robust back-end systems and mastering clean code principles for scalable applications. 💻✨<br><br>📫 How to reach me:<br>Shoot me a message at <a href="mailto:abdomoslaam@gmail.com">Email</a> or connect with me on <a href="https://www.linkedin.com/in/abdulrhman-mohammed03/" target="_blank">LinkedIn.</a><br><br>⚡ Fun fact:<br>I love exploring emerging technologies and integrating them into real-world solutions. 🚀</p>
+<p align="left">🔭 Currently building:<br>I'm working on an innovative medical app that uses AI-powered doctor recommendations to transform healthcare. Tech + healthcare = game changer! 🌟<br><br>🌱 Currently learning:<br>Leveling up my skills in Node.js and Laravel to create robust back-end systems and mastering clean code principles for scalable applications. 💻✨<br><br>📫 How to reach me:<br>Shoot me a message at <a href="mailto:abdomoslaam@gmail.com" target="_blank">Email</a> or connect with me on <a href="https://www.linkedin.com/in/abdulrhman-mohammed03/" target="_blank">LinkedIn.</a><br><br>⚡ Fun fact:<br>I love exploring emerging technologies and integrating them into real-world solutions. 🚀</p>
 
 ###
 
