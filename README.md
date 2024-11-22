@@ -39,6 +39,3 @@ Leveling up my skills in **Node.js** and **Laravel** to craft robust back-end sy
 
 ## ⚡ Fun Fact  
 I love exploring emerging technologies and integrating them into real-world solutions. 🚀  
-
----
-
